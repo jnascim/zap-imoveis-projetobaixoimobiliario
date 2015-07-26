@@ -5,8 +5,6 @@ from unidecode import unidecode
 
 # Blank Python
 url_base = "http://www.zap.com.br/imoveis/brasil/?q="
-enderecos = ['Alameda Barao de Limeira', 'Rua General Rondon ', 'Rua Guaianases ', 'Alameda Glete', 'Rua Conselheiro Nebias ', 'Alameda Nothmann ', 'Alameda Eduardo Prado', 'Rua Capistrano de Abreu', 'Rua Sousa Lima', 'Rua Barra Funda', 'Rua Albuquerque Lins ', 'Rua Brigadeiro Galvao ', 'Praca Olavo Bilac ', 'Rua Barra Funda', 'Alameda Ribeiro da Silva ', 'Rua General Julio Marcondes Salgado ', 'Avenida Sao João', 'Rua Helvetia ']
-
 enderecos = ['Rua Vitorino Carmilo', 'Alameda Eduardo Prado', 'Rua Barra Funda', 'Rua Conselheiro Brotero', 'Rua Capistrano de Abreu', 'Rua Conselheiro Nebias', 'Rua Barao de Limeira', 'Alameda Glete', 'Julio Marcondes Salgado', 'Alameda Ribeiro da Silva']
 
 enderecos = ['Julio Marcondes Salgado']
